@@ -1,5 +1,7 @@
 # thpshd-moneyhack by Darwin1337
 
+## Main Information
+
 Current version: 1.2
 
 **Game:** Tony Hawk's Pro Skater HD (Udpdate and Revert Pack DLC)  
@@ -8,6 +10,10 @@ Current version: 1.2
 **Release of the trainer:** 08/08/2015  
 **Platform:** Windows 7/8/8.1/10  
 **Series:** Tony Hawk's Pro Skater  
+
+## Screenshots
+
+![trainer ui](http://i.imgur.com/j1E96JZ.png)
 
 Report any bug:  
   
