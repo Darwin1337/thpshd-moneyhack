@@ -1,9 +1,6 @@
 # thpshd-moneyhack
 
-This hack was made by: Darwin_CSGO  |
-----------------------------------------------
-
-*Current Hack version: 1.2*
+*Current version: 1.2*
 
 Game : Tony Hawk's Pro Skater HD (Udpdate and Revert Pack DLC)
 ---------
