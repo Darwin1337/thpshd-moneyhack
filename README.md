@@ -2,7 +2,7 @@
 
 ## Main Information
 
-Unfortunately I do not have the source code for this application as it was coded almost in 2015.  
+Unfortunately I do not have the source code for this application as it was coded in 2015.  
 Current version: 1.2
 
 **Game:** Tony Hawk's Pro Skater HD (Udpdate and Revert Pack DLC)  
